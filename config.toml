@@ -1,0 +1,13 @@
+[theme]
+primaryColor        = "#3f51b5"
+backgroundColor     = "#ffffff"
+secondaryBackgroundColor = "#f8f9fa"
+textColor           = "#1a1a2e"
+font                = "sans serif"
+
+[server]
+# Sprječava otvaranje browsera automatski pri pokretanju
+headless = true
+
+[browser]
+gatherUsageStats = false
